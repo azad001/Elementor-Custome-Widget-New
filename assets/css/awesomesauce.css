@@ -1,0 +1,142 @@
+.text-center{
+  text-align: center;
+}
+
+.uts-title.big-theme{
+  margin-bottom: 30px;
+  color: #025a8c;    
+} 
+.uts-title.big-p{
+  margin: 0;
+  line-height: 1.011;
+  font-size: 1.167em;
+  color: #000; 
+}
+.uts-title.big-theme-white{
+  margin-bottom: 30px;
+  color: #fff;    
+} 
+.uts-title.medium-black  {
+  margin-bottom: 30px;
+  color: #000;
+}
+.uts-title.academyh3{
+  margin: 30px 0 0;
+  font-weight: 700;
+  text-align: center;
+  font-size: 1.167em;
+  line-height: 1;
+  color: #000;
+}
+.uts-title.academyblack{
+  width: 100%;
+  padding: 60px 0;
+  line-height: .791;
+  font-size: 2em;
+  font-weight: 700;
+  display: block;
+  color: #000;    
+}
+.uts-title.medium-white{
+  margin: 0;
+  text-align: center;
+  line-height: 1.043;
+  font-size: 1.917em;
+  color:white;
+}
+.uts-title.big-p-white{
+  line-height: 1.1875;
+  font-size: 1.333em;
+  font-weight: 700;
+  display: block;
+  color: #fff;    
+}
+.uts-title.course-title{
+  margin: 0 0 40px;
+  line-height: 1.114;
+  font-size: 2.917em;
+  font-weight: 700;
+  color: #025a8c;
+}
+.uts-title.course-sub-title{
+  width: 100%;
+  max-width: 700px;
+  line-height: 1.111;
+  font-size: 1.5em;
+  font-weight: 600;
+  color: #000;
+}
+.uts-title.small-white{
+  padding-bottom: 20px;
+  line-height: 1;
+  font-size: .75em;
+  font-weight: 600;
+  margin: 0;
+  color: white;
+}
+.uts-title.hero-title{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: D-DIN Condensed;
+  text-transform: uppercase;
+  line-height: 1.083;
+  font-size: 5.3em;
+  font-weight: 700;
+  color: #025a8c;
+}
+.uts-title.hero-sub-title{
+  margin: 15px 0 0;
+  text-align: center;
+  line-height: 1.011;
+  font-size: 1.583em;
+  font-weight: 600;
+  color: #000;    
+}
+
+
+.uts-btn .combtn{
+  height: 64px;
+  padding: 0 20px;
+  border-radius: 32px;
+  background-color: #ee7001;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-family: inherit;
+  font-size: 1em;
+  line-height: 1.1;
+  font-weight: 700;
+  color: #fff;
+  cursor: pointer;
+  justify-content: center;
+  display: inline-flex;
+  align-items: center;
+  flex-wrap: wrap;
+  border: none;    
+}
+.uts-btn .combtn:hover {
+  background: #f5ae2e;
+  background: -moz-linear-gradient(top, #f5ae2e 0%, #ee4f01 100%);
+  background: -webkit-linear-gradient(top, #f5ae2e 0%, #ee4f01 100%);
+  background: linear-gradient(to bottom, #f5ae2e 0%, #ee4f01 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f5ae2e",endColorstr="#ee4f01",GradientType=0);
+  color: #fff;
+}
+.uts-btn .style-1:hover {
+  background: #f5ae2e;
+  background: -moz-linear-gradient(top, #f5ae2e 0%, #ee4f01 100%);
+  background: -webkit-linear-gradient(top, #f5ae2e 0%, #ee4f01 100%);
+  background: linear-gradient(to bottom, #f5ae2e 0%, #ee4f01 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f5ae2e",endColorstr="#ee4f01",GradientType=0);
+  color: #fff;
+}
+.uts-btn.center-txt{
+  text-align: center;
+}
+.uts-btn .style-2{
+  background-color: #ff3f20;
+  text-transform: capitalize;
+  font-size: 1.333em;
+  padding: 0 25px;
+  margin: 0;    
+}
